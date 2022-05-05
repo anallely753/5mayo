@@ -1,0 +1,16 @@
+.container-cards{
+	border-style: solid;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+
+	justify-content: space-around;
+	/*flex-direction: row;*/
+	height: 2000px;
+
+	align-items: space-between;
+}
+.card{
+	height: 20rem;
+	border-style: solid;
+}
